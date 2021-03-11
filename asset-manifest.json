@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.704e1e06.chunk.css",
+    "main.js": "/static/js/main.ffdb85cf.chunk.js",
+    "main.js.map": "/static/js/main.ffdb85cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.82f14d3b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.82f14d3b.js.map",
+    "static/js/2.225231ee.chunk.js": "/static/js/2.225231ee.chunk.js",
+    "static/js/2.225231ee.chunk.js.map": "/static/js/2.225231ee.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.704e1e06.chunk.css.map": "/static/css/main.704e1e06.chunk.css.map",
+    "static/js/2.225231ee.chunk.js.LICENSE.txt": "/static/js/2.225231ee.chunk.js.LICENSE.txt",
+    "static/media/Manzil.scss": "/static/media/bg_brick.5b3c21fa.jpg",
+    "static/media/fff.641721f1.jpeg": "/static/media/fff.641721f1.jpeg",
+    "static/media/logo.d6bf23bc.png": "/static/media/logo.d6bf23bc.png",
+    "static/media/logo2.3711aec8.png": "/static/media/logo2.3711aec8.png",
+    "static/media/siyrat.4a43acc7.jpg": "/static/media/siyrat.4a43acc7.jpg",
+    "static/media/siyrat1.6a4e4510.jpg": "/static/media/siyrat1.6a4e4510.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82f14d3b.js",
+    "static/js/2.225231ee.chunk.js",
+    "static/css/main.704e1e06.chunk.css",
+    "static/js/main.ffdb85cf.chunk.js"
+  ]
+}
